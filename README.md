@@ -18,10 +18,10 @@ Make sure to check off your items as you complete them. [ ] => [x]
 ### JS
 - [x] Create  an AJAX function inseide the click handler
 - [x] Get the response from using your search URL https://api.giphy.com/v1/gifs/search?q=puppy&rating=pg&api_key=dc6zaTOxFJmzC
-- [ ] Display the original image to the screen
+- [x] Display the original image to the screen
 
 ### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Day 2
 ### JS
